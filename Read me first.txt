@@ -1,0 +1,33 @@
+Meridian Alpharetta Water Damage Restoration - property package
+Updated 2 Nov 2026 by Claude (In-House Lead Gen). Nothing here is live and nothing has been bought.
+
+Business: Meridian Alpharetta Water Damage Restoration
+Trade: Water damage restoration
+Towns: Milton, Johns Creek, Cumming, Roswell
+Sheet row: 152 in "Copy of LXW_In-House_Lead_Gen_-_1000_Category_and_ZIP_-_2026-10-29" (List tab); the sheet still shows the earlier name "Top Alpharetta Water Damage Restoration"
+Build: method B (one writer and one designer per site). Passes the current checks: structure (no template), design, phone-number contrast and phone width (1 Nov 2026).
+Review: method B pilot rebuild; no separate verdict recorded
+Planned domain: meridianalpharettawaterdamagerestoration.com (not bought)
+Planned address: 4255 Trotters Way, Alpharetta, GA 30004 (lease not signed; replace if the lease fails)
+Google Business Profile: primary category "Water damage restoration service"; also Mold remediation service, Carpet cleaning service, Disaster recovery service, Restoration service
+
+Launch status: ready once the phone number is set and the partner's Georgia water damage restoration contractor details are confirmed
+Needed before launch:
+- Daniel: price caps for domain and number
+- Namecheap API key + whitelisted IP in AI Command vault
+- Bing Webmaster API key
+- Cloudflare token scopes checked (Zone, DNS, Pages, Web Analytics)
+- Twilio: confirm the account behind the vault key is paid (not trial); Twilio connector in AI Command (86bcvqgcf)
+- GA4 property and measurement ID under the business's own Google Workspace (Analytics Admin API, or a person)
+- Clarity project ID (no API; a person creates one per site)
+- Google Search Console scope on the OAuth token
+- Georgia: partner's water damage restoration contractor licence or registration number, and whether state rules require it in advertising — confirm wording before launch
+
+What is in this folder
+- Website preview (open this).html: the whole site in one file. Open it in any browser.
+- Website files for upload: the site for Cloudflare Pages. It has no phone number yet.
+- Launch package: meridian-alpharetta-water-damage-restoration.launch.json, the launch build and finalize.py. finalize.py adds the phone, and optionally the GA4 and Clarity IDs, then refuses to finish if anything is left over.
+- Posting pack (open this).html and Posting text.txt: Google posts with Call buttons and tracking links, social bios, three short video scripts and the VSL script.
+- SEO plan (open this).html: categories, citations, the 8-week posting plan and what to watch.
+- Website photos: the 10 photos used on the site. They are AI-made; the disclosure style is still Daniel's decision.
+- Social images and Videos: not made yet for this site.
